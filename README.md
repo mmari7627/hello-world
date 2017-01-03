@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+to know about branches
